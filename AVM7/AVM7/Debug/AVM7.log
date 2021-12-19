@@ -1,0 +1,3 @@
+﻿  AVM7.cpp
+C:\Users\maksp\source\repos\AVM7\AVM7\AVM7.cpp(56,30): warning C4101: df: неиспользованная локальная переменная
+  AVM7.vcxproj -> C:\Users\maksp\source\repos\AVM7\Debug\AVM7.exe
