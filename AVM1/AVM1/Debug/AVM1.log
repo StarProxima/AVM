@@ -1,0 +1,15 @@
+﻿  AVM1.cpp
+C:\Users\maksp\source\repos\AVM1\AVM1\AVM1.cpp(17,19): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\maksp\source\repos\AVM1\AVM1\AVM1.cpp(17,37): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\maksp\source\repos\AVM1\AVM1\AVM1.cpp(17,53): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\maksp\source\repos\AVM1\AVM1\AVM1.cpp(28,14): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\maksp\source\repos\AVM1\AVM1\AVM1.cpp(52,47): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\maksp\source\repos\AVM1\AVM1\AVM1.cpp(52,24): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\maksp\source\repos\AVM1\AVM1\AVM1.cpp(56,31): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\maksp\source\repos\AVM1\AVM1\AVM1.cpp(56,23): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\maksp\source\repos\AVM1\AVM1\AVM1.cpp(59,44): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\maksp\source\repos\AVM1\AVM1\AVM1.cpp(59,24): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\maksp\source\repos\AVM1\AVM1\AVM1.cpp(63,31): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\maksp\source\repos\AVM1\AVM1\AVM1.cpp(63,23): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\maksp\source\repos\AVM1\AVM1\AVM1.cpp(73,12): warning C4101: h: неиспользованная локальная переменная
+  AVM1.vcxproj -> C:\Users\maksp\source\repos\AVM1\Debug\AVM1.exe
